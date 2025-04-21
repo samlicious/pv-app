@@ -1,0 +1,8 @@
+Streamlit
+pandas
+numpy
+numpy_financial
+matplotlib
+openpyxl
+fpdf
+altair
